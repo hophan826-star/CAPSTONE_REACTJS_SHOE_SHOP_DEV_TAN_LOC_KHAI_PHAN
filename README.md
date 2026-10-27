@@ -1,8 +1,8 @@
 # Shoes Shop – Capstone ReactJS
 
 PHẦN PHÂN CHIA CÔNG VIỆC:
-PHAN TẤN LỘC: Register, Login, Profile, Search, Tính năng ẩn
-HỒ KHẢI PHAN: Index, Detail, Cart, Search
+PHAN TẤN LỘC: Register, Login, Profile, Search
+HỒ KHẢI PHAN: Index, Detail, Cart, Tính năng ẩn
 
 ## Cấu trúc thư mục
 
